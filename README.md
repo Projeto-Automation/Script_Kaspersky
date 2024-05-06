@@ -24,7 +24,9 @@ Preparação:
 
 Configuração:
 5°
+
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/d5e91053-4659-4863-bc4c-f6537d629f1a)
+
 Para a instalação apenas do Endpoin Security preencha com N
 
 6°
