@@ -8,15 +8,19 @@ Esse script esta auxilinado em realizar o download da versão expecifica para a 
 Preparação:
 
 1° Cria pasta "Kaspersky" dentro do diretorio "/opt"
+
   mkdir kaspersky
 
 2° Baixe o script do repositorio
+
   wget https://github.com/Projeto-Automation/Scripts/blob/main/install_kaspersky.sh
 
 3° Conceda a permissão para o script
+
   chmod +x install_kaspersky.sh
 
 4° Inicie o script com usuario ROOT
+
   ./install_kaspersky
 
 Configuração:
