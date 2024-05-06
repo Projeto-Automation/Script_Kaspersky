@@ -1,6 +1,3 @@
-# Scripts
-Repositorios de scripts para equipe de projetos
-
 # Script para instalação do Kaspersky
 
 Script montado para auxiliar na instalação do Kaspersky em maquinas Linux.
