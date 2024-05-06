@@ -13,7 +13,7 @@ Preparação:
 
 2° Baixe o script do repositorio
 
-  * wget https://github.com/Projeto-Automation/Scripts/blob/main/install_kaspersky.sh
+  * wget https://github.com/Projeto-Automation/Script_Kaspersky/blob/main/install_kaspersky.sh
 
 3° Conceda a permissão para o script
 
@@ -51,7 +51,7 @@ Configuração:
 
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/adb8c064-e636-45d4-a57a-d4cfe22051bf)
 
-  9 Mantenha a opção padrão
+  * Mantenha a opção padrão
 
 10°
 
