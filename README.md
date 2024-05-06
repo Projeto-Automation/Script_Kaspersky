@@ -23,42 +23,58 @@ Preparação:
   ./install_kaspersky
 
 Configuração:
+
 5°
 
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/d5e91053-4659-4863-bc4c-f6537d629f1a)
 
-Para a instalação apenas do Endpoin Security preencha com N
+  Para a instalação apenas do Endpoin Security preencha com N
 
 6°
+
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/6a174831-071a-47a2-bafb-0bf8ae419542)
-Manternha a opção padrão que o script informou
+
+  Manternha a opção padrão que o script informou
 
 7°
-Aceite o termo de segurança da Kaspersky
+
+  Aceite o termo de segurança da Kaspersky
 
 8°
+
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/dc82b460-2b7f-4d04-a932-069583334fd9)
-Informe o usario que receberar a permissão de administrador do Kaspersky
+
+  Informe o usario que receberar a permissão de administrador do Kaspersky
 
 9°
+
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/adb8c064-e636-45d4-a57a-d4cfe22051bf)
-Mantenha a opção padrão
+
+  Mantenha a opção padrão
 
 10°
+
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/e235b2e6-8089-4347-b04b-2614040069f0)
-Informe n para não ativar a opção do proxy
+
+  Informe n para não ativar a opção do proxy
 
 11°
+
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/c72e0f62-0b06-4e28-8509-7a9ecb601095)
-Informe y para ele baixar o banco de dados de ameaças automaticamente 
+
+  Informe y para ele baixar o banco de dados de ameaças automaticamente 
 
 12°
+
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/b3119316-3fba-4a04-8eab-dcc280471a1a)
-Informe y para ativar os updates automaticos do banco
+  
+  Informe y para ativar os updates automaticos do banco
 
 13°
+
 ![image](https://github.com/Projeto-Automation/Scripts/assets/148788352/7fb9902b-e185-4487-9f7b-61edf9b72324)
-Informe a LICENSA 
+  
+  Informe a LICENSA 
 
 # Informações validas
 
